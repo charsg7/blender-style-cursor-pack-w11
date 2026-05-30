@@ -1,2 +1,28 @@
-# blender-style-cursor-pack-w11
-Custom Blender inspired cursor pack for Windows 11 featuring carefully designed static and animated cursors for a cleaner and more modern desktop experience.
+# Blender Style Cursor Pack for Windows 11
+
+Custom cursor collection inspired by Blender interface cursors.
+
+## Features
+
+* Windows 11 Compatible
+* Static and Animated Cursors
+* Blender Inspired Design
+* Free Download
+
+## Preview
+
+(Add preview images here)
+
+## Download
+
+Download the latest release from the Releases section.
+
+## Support
+
+ArtStation:
+
+your ArtStation link
+
+PayPal:
+
+your PayPal link
