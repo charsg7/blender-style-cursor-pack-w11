@@ -11,7 +11,9 @@ Custom cursor collection inspired by Blender interface cursors.
 
 ## Preview
 
-(Add preview images here)
+![Main Preview](URL_AQUI)
+
+![Cursor Showcase](URL_AQUI)
 
 ## Download
 
