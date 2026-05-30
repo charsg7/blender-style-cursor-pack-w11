@@ -23,8 +23,8 @@ Download the latest release from the Releases section.
 
 ArtStation:
 
-[your ArtStation link](https://www.artstation.com/charlesg7_3d)
+https://www.artstation.com/charlesg7_3d
 
 PayPal:
 
-(https://paypal.me/CharsG7)
+https://paypal.me/CharsG7
