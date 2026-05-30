@@ -27,4 +27,4 @@ ArtStation:
 
 PayPal:
 
-[your PayPal link](https://paypal.me/CharsG7)
+(https://paypal.me/CharsG7)
