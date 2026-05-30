@@ -13,7 +13,7 @@ Custom cursor collection inspired by Blender interface cursors.
 
 ![Main Preview]([URL_AQUI](https://github.com/charsg7/blender-style-cursor-pack-w11/blob/250623b3ce2cf0b4aaf7b4399ee014739c7d6505/Main%20Preview.png))
 
-![Cursor Showcase](URL_AQUI)
+![Cursor Showcase]([URL_AQUI](https://github.com/charsg7/blender-style-cursor-pack-w11/blob/a36c44e394d9c59d6c32cccf4012d95f757c0dad/Cursor%20Showcase.png))
 
 ## Download
 
@@ -23,8 +23,8 @@ Download the latest release from the Releases section.
 
 ArtStation:
 
-your ArtStation link
+[your ArtStation link](https://www.artstation.com/charlesg7_3d)
 
 PayPal:
 
-your PayPal link
+[your PayPal link](https://paypal.me/CharsG7)
